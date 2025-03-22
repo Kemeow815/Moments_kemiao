@@ -1,0 +1,14 @@
+baseURL: https://moments.kemiao.online/
+languageCode: zh-Hans
+theme: moments
+pagination.pagerSize: 10
+pagination.path: .
+
+params:
+    title: "Ke Miao's Moments"
+    signature: "人生如逆旅，我亦是行人。"
+    cover: "background.jpg"
+
+    name: "克喵爱吃卤面"
+    avatar: "avatar.png"
+UTC时间转换: https://www.utctime.net/

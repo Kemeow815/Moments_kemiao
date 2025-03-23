@@ -6,8 +6,15 @@
     <description>Recent content in Moments on </description>
     <generator>Hugo</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sun, 23 Mar 2025 11:34:53 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Mar 2025 12:16:05 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/moments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/moments/7/</link>
+      <pubDate>Sun, 23 Mar 2025 12:16:05 +0800</pubDate>
+      <guid>http://localhost:1313/moments/7/</guid>
+      <description>&lt;p&gt;目前已确定：手机版和web端都无法更新，只能在本地更新推送上去。因为要在本地的&lt;code&gt;hugo server&lt;/code&gt;里构建页面。不知道在vercel里添加会怎么样。测试了一下，看来是没用。&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>http://localhost:1313/moments/tucao/</link>

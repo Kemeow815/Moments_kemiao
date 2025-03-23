@@ -6,8 +6,22 @@
     <description>Recent content in Moments on </description>
     <generator>Hugo</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sat, 22 Mar 2025 15:58:17 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Mar 2025 11:34:53 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/moments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/moments/tucao/</link>
+      <pubDate>Sun, 23 Mar 2025 11:34:53 +0800</pubDate>
+      <guid>http://localhost:1313/moments/tucao/</guid>
+      <description>&lt;p&gt;昨晚测试在GitHub发动态，失败了。。。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/moments/cs1/</link>
+      <pubDate>Sun, 23 Mar 2025 01:34:53 +0000</pubDate>
+      <guid>http://localhost:1313/moments/cs1/</guid>
+      <description>&lt;p&gt;最近写日记太晚了。以后固定10:30开始写，昨天没写完，今天继续！&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>http://localhost:1313/moments/wexingzh/</link>
@@ -35,13 +49,6 @@
       <pubDate>Sat, 22 Mar 2025 15:35:18 +0800</pubDate>
       <guid>http://localhost:1313/moments/bilibili/</guid>
       <description>&lt;p&gt;我是B站木鱼水心的粉丝，最近更新的史记系列超级好看。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/moments/tucao/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/moments/tucao/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

@@ -6,8 +6,22 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sat, 22 Mar 2025 15:58:17 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Mar 2025 11:34:53 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/moments/tucao/</link>
+      <pubDate>Sun, 23 Mar 2025 11:34:53 +0800</pubDate>
+      <guid>http://localhost:1313/moments/tucao/</guid>
+      <description>&lt;p&gt;昨晚测试在GitHub发动态，失败了。。。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/moments/6/</link>
+      <pubDate>Sun, 23 Mar 2025 01:34:53 +0000</pubDate>
+      <guid>http://localhost:1313/moments/6/</guid>
+      <description>&lt;p&gt;最近写日记太晚了。以后固定10:30开始写，昨天没写完，今天继续！&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>http://localhost:1313/moments/wexingzh/</link>

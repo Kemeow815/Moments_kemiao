@@ -36,5 +36,12 @@
       <guid>http://localhost:1313/moments/bilibili/</guid>
       <description>&lt;p&gt;我是B站木鱼水心的粉丝，最近更新的史记系列超级好看。&lt;/p&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/moments/tucao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/moments/tucao/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

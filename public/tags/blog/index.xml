@@ -2,39 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on </title>
-    <link>http://localhost:1313/tags/blog/</link>
+    <link>https://moments.kemiao.online/tags/blog/</link>
     <description>Recent content in Blog on </description>
     <generator>Hugo</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Mon, 31 Mar 2025 01:34:53 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://moments.kemiao.online/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/moments/cs3/</link>
+      <link>https://moments.kemiao.online/moments/cs3/</link>
       <pubDate>Mon, 31 Mar 2025 01:34:53 +0000</pubDate>
-      <guid>http://localhost:1313/moments/cs3/</guid>
+      <guid>https://moments.kemiao.online/moments/cs3/</guid>
       <description>&lt;p&gt;感觉可以测试一下&lt;code&gt;hugo build&lt;/code&gt;。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/moments/7/</link>
-      <pubDate>Sun, 23 Mar 2025 12:16:05 +0800</pubDate>
-      <guid>http://localhost:1313/moments/7/</guid>
-      <description>&lt;p&gt;目前已确定：手机版和web端都无法更新，只能在本地更新推送上去。因为要在本地的&lt;code&gt;hugo server&lt;/code&gt;里构建页面。不知道在vercel里添加会怎么样。刚才测试了一下，看来是没用。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/moments/tucao/</link>
+      <link>https://moments.kemiao.online/moments/tucao/</link>
       <pubDate>Sun, 23 Mar 2025 11:34:53 +0800</pubDate>
-      <guid>http://localhost:1313/moments/tucao/</guid>
+      <guid>https://moments.kemiao.online/moments/tucao/</guid>
       <description>&lt;p&gt;昨晚测试在GitHub发动态，失败了。。。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/moments/cs1/</link>
-      <pubDate>Sun, 23 Mar 2025 01:34:53 +0000</pubDate>
-      <guid>http://localhost:1313/moments/cs1/</guid>
-      <description>&lt;p&gt;最近写日记太晚了。以后固定10:30开始写，昨天没写完，今天继续！&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

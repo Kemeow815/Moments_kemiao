@@ -2,102 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Moments on </title>
-    <link>http://localhost:1313/moments/</link>
+    <link>https://moments.kemiao.online/moments/</link>
     <description>Recent content in Moments on </description>
     <generator>Hugo</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Tue, 08 Apr 2025 23:12:22 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/moments/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://moments.kemiao.online/moments/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/moments/ig/</link>
+      <link>https://moments.kemiao.online/moments/ig/</link>
       <pubDate>Tue, 08 Apr 2025 23:12:22 +0800</pubDate>
-      <guid>http://localhost:1313/moments/ig/</guid>
+      <guid>https://moments.kemiao.online/moments/ig/</guid>
       <description>&lt;p&gt;准备睡觉喽，幽默ig，再见吧，晚安，明天见。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/moments/9/</link>
+      <link>https://moments.kemiao.online/moments/9/</link>
       <pubDate>Tue, 08 Apr 2025 20:53:22 +0800</pubDate>
-      <guid>http://localhost:1313/moments/9/</guid>
+      <guid>https://moments.kemiao.online/moments/9/</guid>
       <description>&lt;p&gt;打lol喽&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/moments/8/</link>
+      <link>https://moments.kemiao.online/moments/8/</link>
       <pubDate>Tue, 08 Apr 2025 20:24:44 +0800</pubDate>
-      <guid>http://localhost:1313/moments/8/</guid>
+      <guid>https://moments.kemiao.online/moments/8/</guid>
       <description>&lt;p&gt;以后这里写总结？就这样吧。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/moments/unnamed-vdrqm/</link>
-      <pubDate>Tue, 08 Apr 2025 20:21:46 +0800</pubDate>
-      <guid>http://localhost:1313/moments/unnamed-vdrqm/</guid>
-      <description>&lt;p&gt;测试git mobile。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/moments/2025-04-08/</link>
+      <link>https://moments.kemiao.online/moments/2025-04-08/</link>
       <pubDate>Tue, 08 Apr 2025 20:04:22 +0800</pubDate>
-      <guid>http://localhost:1313/moments/2025-04-08/</guid>
+      <guid>https://moments.kemiao.online/moments/2025-04-08/</guid>
       <description>&lt;p&gt;感觉这个hugo说说真的尴尬，必须拉到本地才行啊，不然没法编辑在vercel里改成html。。。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/moments/cs3/</link>
+      <link>https://moments.kemiao.online/moments/cs3/</link>
       <pubDate>Mon, 31 Mar 2025 01:34:53 +0000</pubDate>
-      <guid>http://localhost:1313/moments/cs3/</guid>
+      <guid>https://moments.kemiao.online/moments/cs3/</guid>
       <description>&lt;p&gt;感觉可以测试一下&lt;code&gt;hugo build&lt;/code&gt;。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/moments/7/</link>
-      <pubDate>Sun, 23 Mar 2025 12:16:05 +0800</pubDate>
-      <guid>http://localhost:1313/moments/7/</guid>
-      <description>&lt;p&gt;目前已确定：手机版和web端都无法更新，只能在本地更新推送上去。因为要在本地的&lt;code&gt;hugo server&lt;/code&gt;里构建页面。不知道在vercel里添加会怎么样。刚才测试了一下，看来是没用。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/moments/tucao/</link>
+      <link>https://moments.kemiao.online/moments/tucao/</link>
       <pubDate>Sun, 23 Mar 2025 11:34:53 +0800</pubDate>
-      <guid>http://localhost:1313/moments/tucao/</guid>
+      <guid>https://moments.kemiao.online/moments/tucao/</guid>
       <description>&lt;p&gt;昨晚测试在GitHub发动态，失败了。。。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/moments/cs1/</link>
-      <pubDate>Sun, 23 Mar 2025 01:34:53 +0000</pubDate>
-      <guid>http://localhost:1313/moments/cs1/</guid>
-      <description>&lt;p&gt;最近写日记太晚了。以后固定10:30开始写，昨天没写完，今天继续！&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/moments/wexingzh/</link>
-      <pubDate>Sat, 22 Mar 2025 15:58:17 +0800</pubDate>
-      <guid>http://localhost:1313/moments/wexingzh/</guid>
-      <description>&lt;p&gt;这篇公众号文章也挺不错的，推荐给大家。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/moments/yinpin/</link>
+      <link>https://moments.kemiao.online/moments/yinpin/</link>
       <pubDate>Sat, 22 Mar 2025 15:54:57 +0800</pubDate>
-      <guid>http://localhost:1313/moments/yinpin/</guid>
+      <guid>https://moments.kemiao.online/moments/yinpin/</guid>
       <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/moments/cs2/</link>
-      <pubDate>Sat, 22 Mar 2025 15:45:14 +0800</pubDate>
-      <guid>http://localhost:1313/moments/cs2/</guid>
-      <description>&lt;p&gt;图片测试&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/moments/bilibili/</link>
-      <pubDate>Sat, 22 Mar 2025 15:35:18 +0800</pubDate>
-      <guid>http://localhost:1313/moments/bilibili/</guid>
-      <description>&lt;p&gt;我是B站木鱼水心的粉丝，最近更新的史记系列超级好看。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

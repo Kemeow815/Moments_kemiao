@@ -1,0 +1,15 @@
+baseURL: https://moments.kemiao.online/
+languageCode: zh-Hans
+theme: moments
+pagination:
+  pagerSize: 10    # 原 paginate
+  path: "page"     # 原 paginatePath
+
+params:
+    title: "Ke Miao's Moments"
+    signature: "每一段旅行都有终点~"
+    cover: "background.jpg"
+
+    name: "克喵爱吃卤面"
+    avatar: "avatar.png"
+UTC时间转换: https://www.iamwawa.cn/timezone.html

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>美食 on </title>
+    <link>http://localhost:1313/tags/%E7%BE%8E%E9%A3%9F/</link>
+    <description>Recent content in 美食 on </description>
+    <generator>Hugo</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Sat, 22 Mar 2025 15:45:14 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E7%BE%8E%E9%A3%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/moments/cs2/</link>
+      <pubDate>Sat, 22 Mar 2025 15:45:14 +0800</pubDate>
+      <guid>http://localhost:1313/moments/cs2/</guid>
+      <description>&lt;p&gt;图片测试&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

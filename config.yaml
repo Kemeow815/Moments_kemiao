@@ -1,4 +1,4 @@
-baseURL: https://moments.kemiao.online/
+baseURL: https://moment.kemeow.top/
 languageCode: zh-Hans
 theme: moments
 pagination:
@@ -6,7 +6,7 @@ pagination:
   path: "page"     # 原 paginatePath
 
 params:
-    title: "Ke Miao's Moments"
+    title: "喵言堂"
     signature: "每一段旅行都有终点~"
     cover: "background.jpg"
 

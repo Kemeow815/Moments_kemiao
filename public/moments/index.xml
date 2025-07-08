@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Moments on </title>
-    <link>https://moment.kemeow.top/moments/</link>
+    <link>http://localhost:1313/moments/</link>
     <description>Recent content in Moments on </description>
     <generator>Hugo</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Thu, 26 Jun 2025 10:11:34 +0800</lastBuildDate>
-    <atom:link href="https://moment.kemeow.top/moments/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/moments/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://moment.kemeow.top/moments/2025-06-261/</link>
+      <link>http://localhost:1313/moments/2025-06-261/</link>
       <pubDate>Thu, 26 Jun 2025 10:11:34 +0800</pubDate>
-      <guid>https://moment.kemeow.top/moments/2025-06-261/</guid>
+      <guid>http://localhost:1313/moments/2025-06-261/</guid>
       <description>&lt;p&gt;今天最后考数电，别挂科啊！😭&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://moment.kemeow.top/moments/10/</link>
+      <link>http://localhost:1313/moments/10/</link>
       <pubDate>Tue, 29 Apr 2025 07:51:22 +0800</pubDate>
-      <guid>https://moment.kemeow.top/moments/10/</guid>
+      <guid>http://localhost:1313/moments/10/</guid>
       <description>&lt;p&gt;上完今天，明天该回家辣&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://moment.kemeow.top/moments/2025-04-16/</link>
+      <link>http://localhost:1313/moments/2025-04-16/</link>
       <pubDate>Wed, 16 Apr 2025 23:41:22 +0800</pubDate>
-      <guid>https://moment.kemeow.top/moments/2025-04-16/</guid>
+      <guid>http://localhost:1313/moments/2025-04-16/</guid>
       <description>&lt;p&gt;这次背不痛辣，2400拿下！&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://moment.kemeow.top/moments/2025-04-09-sw/</link>
+      <link>http://localhost:1313/moments/2025-04-09-sw/</link>
       <pubDate>Wed, 09 Apr 2025 07:58:22 +0800</pubDate>
-      <guid>https://moment.kemeow.top/moments/2025-04-09-sw/</guid>
+      <guid>http://localhost:1313/moments/2025-04-09-sw/</guid>
       <description>&lt;p&gt;打完卡回来把前天的博客继续完善。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://moment.kemeow.top/moments/ok/</link>
+      <link>http://localhost:1313/moments/ok/</link>
       <pubDate>Wed, 09 Apr 2025 00:20:22 +0800</pubDate>
-      <guid>https://moment.kemeow.top/moments/ok/</guid>
+      <guid>http://localhost:1313/moments/ok/</guid>
       <description>&lt;p&gt;好像cloudflare可以额。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://moment.kemeow.top/moments/cloud/</link>
+      <link>http://localhost:1313/moments/cloud/</link>
       <pubDate>Wed, 09 Apr 2025 00:11:22 +0800</pubDate>
-      <guid>https://moment.kemeow.top/moments/cloud/</guid>
+      <guid>http://localhost:1313/moments/cloud/</guid>
       <description>&lt;p&gt;拉到cloudflare测试一下&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://moment.kemeow.top/moments/ig/</link>
+      <link>http://localhost:1313/moments/ig/</link>
       <pubDate>Tue, 08 Apr 2025 23:12:22 +0800</pubDate>
-      <guid>https://moment.kemeow.top/moments/ig/</guid>
+      <guid>http://localhost:1313/moments/ig/</guid>
       <description>&lt;p&gt;准备睡觉喽，幽默ig，再见吧，晚安，明天见。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://moment.kemeow.top/moments/9/</link>
+      <link>http://localhost:1313/moments/9/</link>
       <pubDate>Tue, 08 Apr 2025 20:53:22 +0800</pubDate>
-      <guid>https://moment.kemeow.top/moments/9/</guid>
+      <guid>http://localhost:1313/moments/9/</guid>
       <description>&lt;p&gt;打lol喽&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://moment.kemeow.top/moments/8/</link>
+      <link>http://localhost:1313/moments/8/</link>
       <pubDate>Tue, 08 Apr 2025 20:24:44 +0800</pubDate>
-      <guid>https://moment.kemeow.top/moments/8/</guid>
+      <guid>http://localhost:1313/moments/8/</guid>
       <description>&lt;p&gt;以后这里写总结？就这样吧。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://moment.kemeow.top/moments/2025-04-08/</link>
+      <link>http://localhost:1313/moments/2025-04-08/</link>
       <pubDate>Tue, 08 Apr 2025 20:04:22 +0800</pubDate>
-      <guid>https://moment.kemeow.top/moments/2025-04-08/</guid>
+      <guid>http://localhost:1313/moments/2025-04-08/</guid>
       <description>&lt;p&gt;感觉这个hugo说说真的尴尬，必须拉到本地才行啊，不然没法编辑在vercel里改成html。。。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://moment.kemeow.top/moments/cs3/</link>
+      <link>http://localhost:1313/moments/cs3/</link>
       <pubDate>Mon, 31 Mar 2025 01:34:53 +0000</pubDate>
-      <guid>https://moment.kemeow.top/moments/cs3/</guid>
+      <guid>http://localhost:1313/moments/cs3/</guid>
       <description>&lt;p&gt;感觉可以测试一下&lt;code&gt;hugo build&lt;/code&gt;。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://moment.kemeow.top/moments/tucao/</link>
+      <link>http://localhost:1313/moments/tucao/</link>
       <pubDate>Sun, 23 Mar 2025 11:34:53 +0800</pubDate>
-      <guid>https://moment.kemeow.top/moments/tucao/</guid>
+      <guid>http://localhost:1313/moments/tucao/</guid>
       <description>&lt;p&gt;昨晚测试在GitHub发动态，失败了。。。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://moment.kemeow.top/moments/yinpin/</link>
+      <link>http://localhost:1313/moments/yinpin/</link>
       <pubDate>Sat, 22 Mar 2025 15:54:57 +0800</pubDate>
-      <guid>https://moment.kemeow.top/moments/yinpin/</guid>
+      <guid>http://localhost:1313/moments/yinpin/</guid>
       <description></description>
     </item>
   </channel>

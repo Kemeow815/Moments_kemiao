@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on </title>
-    <link>https://moment.kemeow.top/tags/blog/</link>
+    <link>http://localhost:1313/tags/blog/</link>
     <description>Recent content in Blog on </description>
     <generator>Hugo</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Thu, 26 Jun 2025 10:11:34 +0800</lastBuildDate>
-    <atom:link href="https://moment.kemeow.top/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://moment.kemeow.top/moments/2025-06-261/</link>
+      <link>http://localhost:1313/moments/2025-06-261/</link>
       <pubDate>Thu, 26 Jun 2025 10:11:34 +0800</pubDate>
-      <guid>https://moment.kemeow.top/moments/2025-06-261/</guid>
+      <guid>http://localhost:1313/moments/2025-06-261/</guid>
       <description>&lt;p&gt;今天最后考数电，别挂科啊！😭&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://moment.kemeow.top/moments/cs3/</link>
+      <link>http://localhost:1313/moments/cs3/</link>
       <pubDate>Mon, 31 Mar 2025 01:34:53 +0000</pubDate>
-      <guid>https://moment.kemeow.top/moments/cs3/</guid>
+      <guid>http://localhost:1313/moments/cs3/</guid>
       <description>&lt;p&gt;感觉可以测试一下&lt;code&gt;hugo build&lt;/code&gt;。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://moment.kemeow.top/moments/tucao/</link>
+      <link>http://localhost:1313/moments/tucao/</link>
       <pubDate>Sun, 23 Mar 2025 11:34:53 +0800</pubDate>
-      <guid>https://moment.kemeow.top/moments/tucao/</guid>
+      <guid>http://localhost:1313/moments/tucao/</guid>
       <description>&lt;p&gt;昨晚测试在GitHub发动态，失败了。。。&lt;/p&gt;</description>
     </item>
   </channel>

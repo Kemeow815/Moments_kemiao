@@ -1,6 +1,6 @@
 ---
 name: 克喵爱吃卤面
-signature:'阁主'
+signature: '阁主'
 date: 2025-07-12T12:37:00+08:00
 tags:
   - 赛事速递
